@@ -11,11 +11,8 @@
 <p align="center">
 
 ![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows)
-
 ![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode)
-
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
-
 ![Coffee](https://img.shields.io/badge/Powered_By-Coffee-FF003C?style=for-the-badge)
 
 </p>
@@ -49,42 +46,32 @@ Current Focus:
   System Design
   Static Web Development
   Game Development
-```
 
 ---
 
 # > about_me.dll
 
-```bash
 $ whoami
-
 Tech explorer!
 
 $ interests
-
 software development
 system architecture
 web technologies
 problem solving
 
 $ hobbies
-
 building projects
 formula 1
 cars
 coffee
 
-
 $ objective
-
 source code + total system control
-```
 
 # > skills.dll
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cs,html,css,js,php,python,git&theme=dark"/>
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=c,cs,html,css,js,php,python,git&theme=dark"/> </p>
 
 ---
 
@@ -116,44 +103,21 @@ Currently Learning
 
 # > github_stats
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tee-m-m&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tee-m-m&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tee-m-m&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tee-m-m&layout=compact&theme=radical&hide_border=true"/> </p>
 
 # > streak_stats
 
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tee-m-m&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tee-m-m&theme=radical&hide_border=true"/> </p>
 
 # > activity_graph
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tee-m-m&theme=tokyo-night&hide_border=true"/>
-
-</p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tee-m-m&theme=react-dark&hide_border=true"/> </p>
 
 ---
 
 # > profile_visitors.exe
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Tee-m-m&label=PROFILE+VISITORS&color=FF003C&style=for-the-badge"/>
-
-</p>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Tee-m-m&label=PROFILE+VISITORS&color=FF003C&style=for-the-badge"/> </p>
 ---
 
 # > currently_playing.mp3
