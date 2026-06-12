@@ -146,14 +146,6 @@ Currently Learning
 
 ---
 
-# > contribution_snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Tee-m-m/Tee-m-m/output/github-contribution-grid-snake-dark.svg">
-</p>
-
----
-
 # > profile_visitors.exe
 
 <p align="center">
