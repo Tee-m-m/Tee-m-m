@@ -29,6 +29,9 @@ source code + total system control
 <a href="https://www.skills.google/public_profiles/ae0f991b-f29e-4ee5-9e9d-78bd2d1168b2/badges/25191914" target="_blank">
   <img src="https://cdn.qwiklabs.com/KL76j4TVMguwIkrbJ%2FL3LOpCTYHAGjRiEv2dUHLbeFY%3D" alt="Google - Introduction to Generative AI" width="150"/>
 </a>
+<a href="https://www.skills.google/public_profiles/ae0f991b-f29e-4ee5-9e9d-78bd2d1168b2/badges/25203051" target="_blank">
+  <img src="https://cdn.qwiklabs.com/1hOfzEbKFu8crWO%2BKqhe3UhEmTSyjsS3KthogIcZMnk%3D" alt="Google - Implement Cloud Collaboration and Productivity Workflows" width="150"/>
+</a>
 
 # > tech_stack.exe
 
