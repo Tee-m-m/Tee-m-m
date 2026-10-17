@@ -33,7 +33,7 @@ source code + total system control
   <img src="https://cdn.qwiklabs.com/1hOfzEbKFu8crWO%2BKqhe3UhEmTSyjsS3KthogIcZMnk%3D" alt="Google - Implement Cloud Collaboration and Productivity Workflows" width="150"/>
 </a>
 <a href="https://skills.yourlearning.ibm.com/certificate/share/397c84bd2dewogICJvYmplY3RJZCIgOiAiQUxNLUNPVVJTRV8zODI1MjUzIiwKICAibGVhcm5lckNOVU0iIDogIjg4MjkxMzhSRUciLAogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIKfQ39a7cb2e1d-10" target="_blank">
-  <img src="./assets/ibm-skillbuild.png" alt="IBM SkillsBuild Certificate: Quantum Computing" width="150"/>
+  <img src="https://github.com/Tee-m-m/Tee-m-m/blob/main/assets/ibm-skillbuild.png.png" alt="IBM SkillsBuild Certificate: Quantum Computing" width="150"/>
 </a>
 
 
