@@ -27,10 +27,10 @@ source code + total system control
 
 # > Certifications & Badges
 <a href="https://www.skills.google/public_profiles/ae0f991b-f29e-4ee5-9e9d-78bd2d1168b2/badges/25191914" target="_blank">
-  <img src="https://cdn.qwiklabs.com/KL76j4TVMguwIkrbJ%2FL3LOpCTYHAGjRiEv2dUHLbeFY%3D" alt="Google - Introduction to Generative AI" width="200"/>
+  <img src="https://cdn.qwiklabs.com/KL76j4TVMguwIkrbJ%2FL3LOpCTYHAGjRiEv2dUHLbeFY%3D" alt="Google - Introduction to Generative AI" width="150"/>
 </a>
 <a href="https://www.skills.google/public_profiles/ae0f991b-f29e-4ee5-9e9d-78bd2d1168b2/badges/25203051" target="_blank">
-  <img src="https://cdn.qwiklabs.com/1hOfzEbKFu8crWO%2BKqhe3UhEmTSyjsS3KthogIcZMnk%3D" alt="Google - Implement Cloud Collaboration and Productivity Workflows" width="200"/>
+  <img src="https://cdn.qwiklabs.com/1hOfzEbKFu8crWO%2BKqhe3UhEmTSyjsS3KthogIcZMnk%3D" alt="Google - Implement Cloud Collaboration and Productivity Workflows" width="150"/>
 </a>
 <a href="https://skills.yourlearning.ibm.com/certificate/share/397c84bd2dewogICJvYmplY3RJZCIgOiAiQUxNLUNPVVJTRV8zODI1MjUzIiwKICAibGVhcm5lckNOVU0iIDogIjg4MjkxMzhSRUciLAogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIKfQ39a7cb2e1d-10" target="_blank">
   <img src="https://github.com/Tee-m-m/Tee-m-m/blob/main/assets/ibm-skillbuild.png.png" alt="IBM SkillsBuild Certificate: Quantum Computing" width="200"/>
